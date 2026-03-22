@@ -13,6 +13,8 @@ A fully local, private agentic AI that lets you build your own knowledge base an
 
 > Paste any text into the knowledge base → ask questions → get answers grounded in your own documents. Fully offline.
 
+[See screenshots and results](results.md)
+
 ---
 
 ## What it does
